@@ -1,0 +1,148 @@
+squad:
+  members:
+    pedro.sanz@masmovil.com:
+      full_name: Pedro Sanz
+      grafana:
+        org_role: admin
+      github:
+        user: psanzm
+      gsuite:
+        role: OWNER
+      gke:
+        access: true
+      opsgenie:
+        access: true
+        org_role: owner
+        team_role: admin
+      slack:
+        enabled: true
+    diego.martingonzalez@masorange.es:
+      full_name: Diego Martín González
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MANAGER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    mauricio.valladares@masorange.es:
+      full_name: Mauricio Valladares Aguilera
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: OWNER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    franciscojavier.ferl@masorange.es:
+      full_name: Francisco Javier Fernandez Lopez 
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    gonzalo.jimenezg@masorange.es:
+      full_name: Gonzalo Jimenez Gil 
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    mario.figuerasi@masorange.es:
+      full_name: Mario Figueras Iglesias 
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    silvia.saeta@deiser.com:
+      full_name: Silvia Saeta Lobato 
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    aaron.bustos@eviden.com:
+      full_name: Aaron Angel Bustos Morales 
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    mario.gijon@masorange.es:
+      full_name: Mario Gijon Martin
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MANAGER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    luis.jimenez@masorange.es:
+      full_name: Luis	Miguel Jimenez
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MANAGER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
+    pablo.moncada@masmovil.com:
+      full_name: Pablo Moncada
+      github:
+        user:
+        org_role:
+      gsuite:
+        role: MEMBER
+      gke:
+        access: false
+      opsgenie:
+        access: false
+      slack:
+        enabled: true
